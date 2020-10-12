@@ -1,4 +1,4 @@
-# kottans-frontend
+# [kottans-frontend](https://github.com/kottans/frontend/blob/master/contents.md#stage-0-self-study) 
 kottans-frontend coure stage 0
 
 # General
