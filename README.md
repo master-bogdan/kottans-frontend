@@ -9,6 +9,8 @@ Version control with Git is very powerfull instrument in development
 As a Linux user I know some of this commands, but some was new and usefull for me like pattern matching  
 Using Linux terminal get me feel like a hacker :)))
 ## [Git Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
-  
+![Screenshot](https://github.com/master-bogdan/kottans-frontend/blob/main/task_git_collaboration/2020-10-15_22-26.png)
+![Screenshot](https://github.com/master-bogdan/kottans-frontend/blob/main/task_git_collaboration/2020-10-15_23-26.png)  
+Interactive git game was just awesome)))
   
 ## Front-End Basics
