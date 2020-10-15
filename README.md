@@ -18,4 +18,5 @@ Interactive git game was just awesome)))
 ![Screenshot](https://github.com/master-bogdan/kottans-frontend/blob/main/task_html_css_intro/2020-10-15_23-33.png)
 ![Screenshot](https://github.com/master-bogdan/kottans-frontend/blob/main/task_html_css_intro/2020-10-15_23-40.png) 
 ## [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)  
-
+![Screenshot](https://github.com/master-bogdan/kottans-frontend/blob/main/task_responsive_web_design/2020-10-15_23-44.png)
+![Screenshot](https://github.com/master-bogdan/kottans-frontend/blob/main/task_responsive_web_design/2020-10-15_23-51.png)
