@@ -13,7 +13,9 @@ Using Linux terminal get me feel like a hacker :)))
 ![Screenshot](https://github.com/master-bogdan/kottans-frontend/blob/main/task_git_collaboration/2020-10-15_23-26.png)  
 Interactive git game was just awesome)))
   
-## Front-End Basics  
+# Front-End Basics  
 ## [Intro to HTML and CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)  
 ![Screenshot](https://github.com/master-bogdan/kottans-frontend/blob/main/task_html_css_intro/2020-10-15_23-33.png)
-![Screenshot](https://github.com/master-bogdan/kottans-frontend/blob/main/task_html_css_intro/2020-10-15_23-40.png)  
+![Screenshot](https://github.com/master-bogdan/kottans-frontend/blob/main/task_html_css_intro/2020-10-15_23-40.png) 
+## [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)  
+
